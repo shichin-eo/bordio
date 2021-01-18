@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bordio/static/css/main.51c8b2a6.chunk.css",
+    "main.js": "/bordio/static/js/main.f06aef10.chunk.js",
+    "main.js.map": "/bordio/static/js/main.f06aef10.chunk.js.map",
+    "runtime-main.js": "/bordio/static/js/runtime-main.603b8d57.js",
+    "runtime-main.js.map": "/bordio/static/js/runtime-main.603b8d57.js.map",
+    "static/js/2.e5b64a84.chunk.js": "/bordio/static/js/2.e5b64a84.chunk.js",
+    "static/js/2.e5b64a84.chunk.js.map": "/bordio/static/js/2.e5b64a84.chunk.js.map",
+    "index.html": "/bordio/index.html",
+    "precache-manifest.e5b1ccb5c024f27c3922765d77fc6e45.js": "/bordio/precache-manifest.e5b1ccb5c024f27c3922765d77fc6e45.js",
+    "service-worker.js": "/bordio/service-worker.js",
+    "static/css/main.51c8b2a6.chunk.css.map": "/bordio/static/css/main.51c8b2a6.chunk.css.map",
+    "static/js/2.e5b64a84.chunk.js.LICENSE.txt": "/bordio/static/js/2.e5b64a84.chunk.js.LICENSE.txt",
+    "static/media/Input.css": "/bordio/static/media/Group 846.f50dd28a.svg",
+    "static/media/Select.css": "/bordio/static/media/Layer 2.e711236e.svg",
+    "static/media/App.css": "/bordio/static/media/Roboto-Regular.11eabca2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603b8d57.js",
+    "static/js/2.e5b64a84.chunk.js",
+    "static/css/main.51c8b2a6.chunk.css",
+    "static/js/main.f06aef10.chunk.js"
+  ]
+}
